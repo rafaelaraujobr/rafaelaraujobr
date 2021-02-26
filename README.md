@@ -1,6 +1,6 @@
 <br />
 
-Olá, sou Bruno Xavier, um apaixonado e desenvolvedor Web Full Stack.
+Olá, sou Rafael Araujo, um apaixonado e desenvolvedor Web Full Stack.
 
 Também sou um entusiasta e mantenedor ao desenvolvimento web. Aprendi muito com a comunidade de código aberto e adoro como a colaboração e o compartilhamento de novos conhecimentos que acontecem por meio das comunidades.
 
