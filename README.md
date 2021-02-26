@@ -5,7 +5,7 @@ Olá, sou Rafael Araujo, um apaixonado e desenvolvedor Web Full Stack.
 Também sou um entusiasta e mantenedor ao desenvolvimento web. Aprendi muito com a comunidade de código aberto e adoro como a colaboração e o compartilhamento de novos conhecimentos que acontecem por meio das comunidades.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
   
 - 💬 Pergunte-me sobre qualquer coisa;
 - 📫 Como me encontrar: [@Rafael Araujo](https://www.linkedin.com/in/bruno-xavier-48a038167/);
