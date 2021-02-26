@@ -8,7 +8,7 @@ Também sou um entusiasta e mantenedor ao desenvolvimento web. Aprendi muito com
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💬 Pergunte-me sobre qualquer coisa;
-- 📫 Como me encontrar: [@BrunoXavier](https://www.linkedin.com/in/bruno-xavier-48a038167/);
+- 📫 Como me encontrar: [@Rafael Araujo](https://www.linkedin.com/in/bruno-xavier-48a038167/);
 - ✨ **Quer conversar?**
 - 📝 [Resume](https://www.linkedin.com/in/bruno-xavier-48a038167/)
 
