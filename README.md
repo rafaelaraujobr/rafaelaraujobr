@@ -31,9 +31,9 @@ Dart   1 hrs                ███████░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-Se você gosta do que eu faço, talvez considere me comprar um café / chá 🥺👉👈
+<!--Se você gosta do que eu faço, talvez considere me comprar um café / chá 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>-->
 
 🚧 **Vamos lá:**
 <!-- TODO-IST:START -->
