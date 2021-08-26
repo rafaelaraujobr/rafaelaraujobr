@@ -51,8 +51,8 @@ Se você gosta do que eu faço, talvez considere me comprar um café / chá 🥺
     <img
       align="left"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=HeyBrunoXavier&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical"
-      src="[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeyBrunoXavier&repo=github-readme-stats)](https://github.com/HeyBrunoXavier/github-readme-stats)"
+      src="https://github-readme-stats.vercel.app/api?username=rafaelaraujobr&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical"
+      src="[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaelaraujobr&repo=github-readme-stats)](https://github.com/rafaelaraujobr/github-readme-stats)"
     />
   </a>
 </p>
