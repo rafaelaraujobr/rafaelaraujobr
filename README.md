@@ -1,38 +1,44 @@
-Olá, sou Rafael Araujo, um desenvolvedor apaixonado 😍 em tecnologia.
+## Oii, sou Rafael Araujo, um desenvolvedor apaixonado 😍 em tecnologia.
 
 Também sou um entusiasta e mantenedor ao desenvolvimento web. Aprendi muito com a comunidade de código aberto e adoro como a colaboração e o compartilhamento de novos conhecimentos que acontecem por meio das comunidades.
 
-- 💬 Pergunte-me sobre qualquer coisa;
-- 📫 Como me encontrar: [@Rafael Araujo](https://www.linkedin.com/in/rafael-araujo-992a3917b/);
-- ✨ **[Quer conversar?](https://api.whatsapp.com/send?phone=5521982222393&text=Fala%20ai%20Rafael%20!)**
-- 📝 [Resume](https://www.linkedin.com/in/rafael-araujo-992a3917b/)
+📈 **My GitHub Stats**
+ <div>
+  <a href="https://github.com/rafaelaraujobr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelaraujobr&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelaraujobr&layout=compact&langs_count=7&theme=nord"/>
+  </a>
+</div>
+<br>
 
-**Linguagens e ferramentas:**  
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/less/less.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+🏆 **Linguagens e ferramentas:**  
 
-<!--🚧 **Vamos lá:**-->
-<!-- TODO-IST:START -->
-<!--🏆  1,000 Life Points           
-🌸  Completed 0 tasks today           
-✅  Completed 574 tasks so far           
-⏳  Longest streak is 10 days-->
-<!-- TODO-IST:END -->
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
+<div style="display: inline_block">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+</div>
+  <!--<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />-->
+  <br>
+  
+💬 **Pergunte-me sobre qualquer coisa**
 
-<!--📈 My GitHub Stats-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelaraujobr&layout=compact)
-![My GitHub Stat](https://github-readme-stats.vercel.app/api?username=rafaelaraujobr&show_icons=true&theme=nord)
+<div> 
+  <a href="https://api.whatsapp.com/send?phone=5521982222393&text=Fala%20ai%20Rafael%20!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/__rafael.araujo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:rflaraujodev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafael-araujo-992a3917b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.facebook.com/profile.php?id=100007833527846" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+</div>
+
 
 
